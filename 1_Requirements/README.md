@@ -22,11 +22,15 @@ ________________________
 
 * HLR1	It shall LOCK THE CAR
 * HLR2	It shall UNLOCK THE CAR
-* HLR3	It shall ACTIVATE WIPER SYSTEM
-* HLR4	It shall DACTIVATE THE WIPER SYSTEM
+* HLR3	It shall WIPER SYSTEM ON
+* HLR4	It shall WIPER SYSTEM OFF 
 
 # Low level Requirements
 * LLR1.1	If the User Button is pressed ONCE, ON LED RED
 * LLR1.2	If the User Button is pressed TWICE, OFF LED RED
 * LLR2.1  If the User Button is pressed Three Times, ON BLUE, GREEN, ORANGE
 * LLR2.2  if the User Button is pressed Four times, ON ORANGE, GREEN, BLUE
+
+# SWOT ANALYSIS
+
+![Document1 - Microsoft Word 11-05-2022 12_08_40](https://user-images.githubusercontent.com/101093201/167785279-d4442957-ad83-4f47-91b5-fc081fa2ed54.png)
