@@ -28,8 +28,8 @@ ________________________
 # Low level Requirements
 * LLR1.1	If the User Button is pressed ONCE, ON LED RED
 * LLR1.2	If the User Button is pressed TWICE, OFF LED RED
-* LLR2.1  If the User Button is pressed Three Times, ON BLUE, GREEN, ORANGE
-* LLR2.2  if the User Button is pressed Four times, ON ORANGE, GREEN, BLUE
+* LLR2.1  If the User Button is pressed Three Times, ON BLUE, GREEN, ORANGE, GREEN, BLUE
+* LLR2.2  if the User Button is pressed Four times, ON BLUE, GREEN,, ORANGE, GREEN, BLUE
 
 # SWOT ANALYSIS
 
