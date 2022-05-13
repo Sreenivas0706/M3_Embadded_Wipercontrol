@@ -8,8 +8,8 @@
 | --- | --- | --- | --- | --- | 
 | 01 | Engine On | USER BUTTON PRESS ONCE  | Shall Engine on  | Shall Engine on  | 
 | 02 | Engine Off | USER BUTTON PRESS TWICE | Shall Engine Off  |  Shall Engine Off | 
-| 03 | Wipers On | USER BUTTON PRESS THREE TIMES | Shall Wipers Runs at one speed    | Shall Wipers On in clock wise direction  |
-| 04 | Wipers Off | USER BUTTON PRESS FOUR TIMES | Shall Wipers Off | Shall Wipers Runs at another speed    |
+| 03 | Wipers On | USER BUTTON PRESS THREE TIMES | Shall Wipers Runs at one speed    | Shall Wipers Run clock wise & anti clock wise direction  |
+| 04 | Wipers Off | USER BUTTON PRESS FOUR TIMES | Shall Wipers Runs at another speed | Shall Wipers Run clock wise & anti clock wise direction   |
 | 05 | ENCRYPTION | 1 OR 2 0R 3 0R 4 | encrypted data for 1/2/3/4 | encrypted data for 1/2/3/4 |
 
 
