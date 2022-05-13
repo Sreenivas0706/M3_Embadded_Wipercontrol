@@ -6,12 +6,11 @@ This project is about wiper control system this is mainly used in different type
 
 # Features
 __________________
-* It shall Lock the car when Button is pressed ONCE
-* It shall Unlock the car when Button is pressed TWICE
+* It shall Engine start the car when Button is pressed ONCE
+* It shall Engine Off the car when Button is pressed TWICE
 * It shall Wiper on and it moves clock wise direction when the Button is pressed THREE times
-* It shall Wiper off and it moves anti clock wise direction when the Button is pressed FOUR times
-* It shall Wiper complete one cycle when the Button is pressed FIVE times
-
+* It shall Wiper speed changes when the Button is pressed FOUR times
+* 
 # Aim Of This Project:
 _________________
 * The main aim of this project is to prevent the accidents during the raining time. 
@@ -20,10 +19,10 @@ _________________
 ________________________
 # High Level Requirements
 
-* HLR1	It shall LOCK THE CAR
-* HLR2	It shall UNLOCK THE CAR
+* HLR1	It shall Engine On THE CAR
+* HLR2	It shall Engine Off THE CAR
 * HLR3	It shall WIPER SYSTEM ON
-* HLR4	It shall WIPER SYSTEM OFF 
+* HLR4	It shall WIPER SYSTEM Chnages The Wiper Spreed
 
 # Low level Requirements
 * LLR1.1	If the User Button is pressed ONCE, ON LED RED
