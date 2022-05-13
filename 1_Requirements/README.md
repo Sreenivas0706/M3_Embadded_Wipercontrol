@@ -8,7 +8,7 @@ This project is about wiper control system this is mainly used in different type
 __________________
 * It shall Engine start the car when Button is pressed ONCE
 * It shall Engine Off the car when Button is pressed TWICE
-* It shall Wiper on and it moves clock wise direction when the Button is pressed THREE times
+* It shall run Wiper at one Speed when the Button is pressed THREE times
 * It shall Wiper speed changes when the Button is pressed FOUR times
 * 
 # Aim Of This Project:
