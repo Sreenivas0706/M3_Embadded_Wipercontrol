@@ -41,8 +41,8 @@ High Level Requirements
 | --- | --- | --- | --- | --- | 
 | 01 | Engine On | USER BUTTON PRESS ONCE  | Shall Engine on  | Shall Engine on  | 
 | 02 | Engine Off | USER BUTTON PRESS TWICE | Shall Engine Off The car |  Shall Engine Off The car | 
-| 03 | Wiper On | USER BUTTON PRESS THREE TIMES | Shall Wiper On In clock wise dirction   | Shall Wiper On in clock wise direction  |
-| 04 | Wiper Off | USER BUTTON PRESS FOUR TIMES | Shall Wiper Off in anti clock wise direction | Shall Wiper Off in anti clock wise direction   |
+| 03 | Wiper On | USER BUTTON PRESS THREE TIMES | Shall Wiper Runs at one speed   | Shall Wiper On in clock wise direction & anti clock wise direction |
+| 04 | Wiper Off | USER BUTTON PRESS FOUR TIMES | Shall Wiper Runs at another speed  | Shall Wiper runs in clock wise direction & anti clock wise direction   |
 | 05 | ENCRYPTION | 1 OR 2 0R 3 0R 4 | encrypted data for 1/2/3/4 | encrypted data for 1/2/3/4 |
 
 
